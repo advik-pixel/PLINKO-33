@@ -1,1 +1,1 @@
-# PLINKO-33
+# Box Class
